@@ -92,7 +92,7 @@ header {
     align-items: center;
 }
 .logo-img {
-    height: 70px;
+    height: 40px;
 }
 
 
@@ -186,7 +186,7 @@ nav ul li a:hover, nav ul li a:focus {
     top: 20%;
     text-shadow: -1px 3px 9px var(--black-color);
 
-    font-size: 5em;
+    font-size: 3.6em;
     color: var(--white-color);
     
     width: 100%;
