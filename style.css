@@ -364,6 +364,10 @@ footer .logo {
         align-items: unset;
     }
 
+    .logo-img {
+        height: 70px;
+    }
+
 
     .menu-wrap .hamburger {
         display: none;
