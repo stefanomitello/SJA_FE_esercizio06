@@ -1,0 +1,8 @@
+#immagine {
+  background-image: url("https://animals.sandiegozoo.org/sites/default/files/2016-08/animals_hero_mountains.jpg");
+  background-size: cover;
+}
+
+.colorebarra {
+  background: #7bff00;
+}
